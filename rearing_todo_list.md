@@ -37,11 +37,11 @@ Same as above (light, temperature,...)
 
 ### Weekly
 
-1. Plant one tray of mustard seeds (aim fora final density of 36/tray), label the tray with the date (we will call it week 0 or w0)
+1. Plant one tray of mustard seeds (aim for a final density of 36/tray), label the tray with the date (we will call it week 0 or w0)
 
 2. Thin last week's tray (w1)
 
-3. Add 1L of fertilised to all plants (w0-w3)
+3. Add 1L of fertiliser (x1) to all plants (w0-w3)
 
 4. Water all plants, including ones with insects (w1-w7) (don't overwater)
 
