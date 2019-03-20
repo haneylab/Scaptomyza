@@ -2,19 +2,21 @@
 
 This document describe a protocol to raise *Scaptomyza flava* on mustard greens which focuses on minimal effort, high density, and consistency. It is organised in three parts: Mustard production, insect rearing, and a practical weekly "todo list".
 
-## Mustard production
+## Mustard plants
 
 The aim of this part is to produce feeding material to Scaptomyza females and larvae. Insect perform best on 3 weeks-old plants.
 
 ### Plant cultivar
 
-The red giant variety (MU<TODO>, WestCoast seeds) is used in virtue of its short development time, large leaves and slowness to bolt.
+The red giant variety (MU $TODO$, WestCoast seeds) is used in virtue of its short development time, large leaves and slowness to bolt.
 
 ### Growing conditions
 
-Plants are grown at 25C, on a 12:12 (L:D) light cycle at a final density of 400/m^2 (i.e. 36/flat). Standard fluorescent bulbs were used to produce a light intensity of <TODO>. A 70% vermicompost + 30% vermiculite soil was used. Plants are watered and fertilised every week. Square, 30cm x 30cm x 4cm flats, divided in 4 inserts, are used since they fit inside a 12in cubical insect cage, which facilitate handling.
+Plants are grown at 25C, on a 12:12 (L:D) light cycle at a final density of 400/m^2 (i.e. 36/flat). Standard fluorescent bulbs are used to produce a light intensity of $TODO$. Plants are grown on a 70% vermicompost + 30% vermiculite soil. 
+Trays are watered and fertilised every week: 100mL of 10x fertiliser $todo:define solution$ is added to the water.
+Square, 30cm x 30cm x 4cm flats, divided in 4 inserts, are used since they fit inside a 12in cubical insect cage, which facilitate handling.
 
-## Insect
+## Insects
 
 The aim of this part is to produce a large number of insects, in consistent conditions, every week. Insects take about three weeks to develop from egg to adults.
 
@@ -64,7 +66,7 @@ In order to save time, one can pre-make consumables and solutions depending on a
 
 * Prepare milk bottle with agar+sucrose+water, store at 4C, in a tight container (for < 2 months)
 
-* Prepare fertiliser, store in the dark, at RT (for < 3 months)
+* Prepare fertiliser (x10) aliquots, store in the dark, at room temperature (for < 3 months)
 
 * Premix and prepot soil
 
