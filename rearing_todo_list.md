@@ -12,8 +12,8 @@ The red giant variety (MU $TODO$, WestCoast seeds) is used in virtue of its shor
 
 ### Growing conditions
 
-Plants are grown at 25C, on a 12:12 (L:D) light cycle at a final density of 400/m^2 (i.e. 36/flat). Standard fluorescent bulbs are used to produce a light intensity of $TODO$. Plants are grown on a 70% vermicompost + 30% vermiculite soil. 
-Trays are watered and fertilised every week: 100mL of 10x fertiliser $todo:define solution$ is added to the water.
+Plants are grown at 25C, on a 12:12 (L:D) light cycle at a final density of 400/m^2 (i.e. 36/flat). Standard fluorescent bulbs are used to produce a light intensity of $TODO$. Plants are grown on sunshine #4 soil. 
+Trays are watered and fertilised every week: 50mL of 20x fertiliser $todo:define solution$ is added to the water.
 Square, 30cm x 30cm x 4cm flats, divided in 4 inserts, are used since they fit inside a 12in cubical insect cage, which facilitate handling.
 
 ## Insects
@@ -24,7 +24,7 @@ The aim of this part is to produce a large number of insects, in consistent cond
 
 30 (i.e. around 15 females), 1-7 days old adults, are added into a 12" cage with one tray of 3 weeks-old mustard (see above) and a solution of 10% sucrose + water (dispensed with a wick). After one week, all adults are discarded.
 
-Larvae are left to develop until emergence and plants are watered once a week. As soon as they emerge, and for the two following weeks, adults are collected with an aspirator weekly and stored in a plastic milk bottle with a 5% sucrose + 2% agar medium (in water).
+Larvae are left to develop until emergence and plants are watered once a week. As soon as they emerge, and for the two following weeks, adults are collected with an aspirator weekly and stored in a plastic vial with 5% sucrose + cotton wool (in water).
 
 
 ### Growing conditions
